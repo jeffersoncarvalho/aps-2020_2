@@ -5,7 +5,7 @@
 
 Aula | Link
 ------------ | -------------
-Aula 01 - Visão Geral: parte 01| https://youtu.be/DS3aFaQKMQE
+Aula 01 - Visão Geral: parte 01 | https://youtu.be/DS3aFaQKMQE
  
 
 * Playlist turma T04
@@ -13,4 +13,5 @@ Aula 01 - Visão Geral: parte 01| https://youtu.be/DS3aFaQKMQE
 
 Aula | Link
 ------------ | -------------
-Aula 01 - Visão Geral: parte 01| https://youtu.be/YtqFVsNLVZA
+Aula 01 - Visão Geral: parte 01 | https://youtu.be/YtqFVsNLVZA
+Aula 02 - Visão Geral: parte 02 | https://youtu.be/_YAtEQUSmWo
