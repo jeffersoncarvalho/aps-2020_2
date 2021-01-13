@@ -11,6 +11,8 @@ Aula 03 - Visão Geral: final, Processo de Desenvolvimento: parte 01 | https://y
 Aula 04 - Processo de Desenvolvimento: final | https://youtu.be/JSFm5GsMi5c
 Aula 05 - Processo de Desenvolvimento: aula Profa Rainara | https://youtu.be/kZImAXvRjH8
 Aula 06 - GitLab: parte 01 | https://youtu.be/BVnKAM4DXKo
+Aula 07 - GitLab: final | https://youtu.be/8lgqfjd4fLk
+
 
 * Playlist turma T04
   * https://www.youtube.com/playlist?list=PL2R4y_yfi1pcMskM_xcGSo0OdY6p_bck9
@@ -23,3 +25,4 @@ Aula 03 - Visão Geral: final, Processo de Desenvolvimento: parte 01 | https://y
 Aula 04 - Processo de Desenvolvimento: final | https://youtu.be/JSFm5GsMi5c
 Aula 05 - Processo de Desenvolvimento: aula Profa Rainara | https://youtu.be/kZImAXvRjH8
 Aula 06 - GitLab: parte 01 | https://youtu.be/ZI_bBBrLGFs
+Aula 07 - GitLab: final | https://youtu.be/XT9KnQ2b6co
