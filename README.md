@@ -12,6 +12,7 @@ Aula 04 - Processo de Desenvolvimento: final | https://youtu.be/JSFm5GsMi5c
 Aula 05 - Processo de Desenvolvimento: aula Profa Rainara | https://youtu.be/kZImAXvRjH8
 Aula 06 - GitLab: parte 01 | https://youtu.be/BVnKAM4DXKo
 Aula 07 - GitLab: final | https://youtu.be/8lgqfjd4fLk
+Aula 08 - Resolução da Lista 03 | https://youtu.be/r4q87TQppqU
 
 
 * Playlist turma T04
@@ -26,3 +27,4 @@ Aula 04 - Processo de Desenvolvimento: final | https://youtu.be/JSFm5GsMi5c
 Aula 05 - Processo de Desenvolvimento: aula Profa Rainara | https://youtu.be/kZImAXvRjH8
 Aula 06 - GitLab: parte 01 | https://youtu.be/ZI_bBBrLGFs
 Aula 07 - GitLab: final | https://youtu.be/XT9KnQ2b6co
+Aula 08 - Resolução da Lista 03 | https://youtu.be/r4q87TQppqU
