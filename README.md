@@ -14,6 +14,7 @@ Aula 06 - GitLab: parte 01 | https://youtu.be/BVnKAM4DXKo
 Aula 07 - GitLab: final | https://youtu.be/8lgqfjd4fLk
 Aula 08 - Resolução da Lista 03 | https://youtu.be/r4q87TQppqU
 Aula 09 - Casos de Uso | https://youtu.be/zmDPVbYSJME
+Aula 10 - Exercícios de Casos de Uso | https://youtu.be/lAGzLud6__k
 
 * Playlist turma T04
   * https://www.youtube.com/playlist?list=PL2R4y_yfi1pcMskM_xcGSo0OdY6p_bck9
@@ -29,3 +30,4 @@ Aula 06 - GitLab: parte 01 | https://youtu.be/ZI_bBBrLGFs
 Aula 07 - GitLab: final | https://youtu.be/XT9KnQ2b6co
 Aula 08 - Resolução da Lista 03 | https://youtu.be/r4q87TQppqU
 Aula 09 - Casos de Uso | https://youtu.be/zmDPVbYSJME
+Aula 10 - Exercícios de Casos de Uso | https://youtu.be/lAGzLud6__k
