@@ -1,0 +1,122 @@
+
+EXEMPLO 1
+
+(Primeiro \nCaso de Uso)
+(Efetuar \nLogin)
+usecase Cadastrar as c1
+:Cliente \ndo Sistema:
+actor Admin as admin
+
+EXEMPLO 2
+skinparam actorStyle awesome
+:Admin: --> (Cadastrar Cliente)
+skinparam actorStyle hollow 
+:Cliente: as cliente
+(Efetuar Login) as login
+cliente ..> login
+
+EXEMPLO 3
+
+usecase UC1 as "Efetuar Login
+--
+O usuário entra no sistema
+..
+A autenticação é feita no servidor
+"
+
+EXEMPLO 4
+left to right direction
+
+package Servidor {
+:Professor: as prof
+:Secretário: as sec
+}
+
+:Aluno: as aluno
+
+package SIGAA {
+(Lançar Notas) as uc1
+(Lançar Frequência) as uc2
+(Cadastrar \nAtividade Complementar) as uc4
+}
+
+rectangle SIPPA {
+(Enviar Trabalho) as uc3
+}
+
+prof --> uc1
+prof --> uc2
+aluno --> uc3
+sec --> uc4
+
+EXEMPLO 5
+:Professor: as professor
+:Aluno: as aluno
+
+(Visualizar Turma) as uc1
+
+professor --> uc1 : ver e-mails
+aluno ---> uc1 : ver sua nota
+
+EXEMPLO 6
+:Servidor Público: as servidor
+:Professor: as professor
+:STA: as sta
+:Aluno: as aluno
+:Aluno \nGraduação: as ag
+:Aluno \nPós-Graduação: as apg
+
+
+servidor <|-- professor
+servidor <|-- sta
+
+aluno <|-- ag
+aluno <|-- apg
+
+EXEMPLO 7
+:Professor: as professor
+(Lançar Notas) as uc1
+
+note right of professor : Deve estar logado!
+
+note right of uc1
+ Este é um exemplo
+ de várias linhas.
+end note
+
+note "Nota entra Professor e Caso de Uso" as N1
+
+professor -- N1
+N1 ..> uc1
+
+EXEMPLO 8
+:Professor: <<Visitante>> as professor
+(Lançar Notas) <<SIGAA>> as uc1
+professor --> uc1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

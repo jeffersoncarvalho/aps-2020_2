@@ -9,7 +9,7 @@ package Profissional {
 }
 
 /'Casos de uso'/
-package Restaurante {
+package Restaurante_Chique{
   usecase "Comer Comida" as UC1
   usecase "Pagar por Comida" as UC2
   usecase "Beber" as UC3

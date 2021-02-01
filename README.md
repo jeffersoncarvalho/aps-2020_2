@@ -15,6 +15,7 @@ Aula 07 - GitLab: final | https://youtu.be/8lgqfjd4fLk
 Aula 08 - Resolução da Lista 03 | https://youtu.be/r4q87TQppqU
 Aula 09 - Casos de Uso | https://youtu.be/zmDPVbYSJME
 Aula 10 - Exercícios de Casos de Uso | https://youtu.be/lAGzLud6__k
+Aula 11 - PLANTUML-Casos de Uso | https://youtu.be/YH6YFJNFxPA
 
 * Playlist turma T04
   * https://www.youtube.com/playlist?list=PL2R4y_yfi1pcMskM_xcGSo0OdY6p_bck9
@@ -31,3 +32,4 @@ Aula 07 - GitLab: final | https://youtu.be/XT9KnQ2b6co
 Aula 08 - Resolução da Lista 03 | https://youtu.be/r4q87TQppqU
 Aula 09 - Casos de Uso | https://youtu.be/zmDPVbYSJME
 Aula 10 - Exercícios de Casos de Uso | https://youtu.be/lAGzLud6__k
+Aula 11 - PLANTUML-Casos de Uso | https://youtu.be/YH6YFJNFxPA
