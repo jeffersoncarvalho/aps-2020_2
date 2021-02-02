@@ -1,0 +1,123 @@
+EXEMPLO 1
+interface Funcionario{
+ String nome
+ Double salario
+ Double calcularSalario()
+}
+
+class Professor{
+ String titularidade
+ Double calcularSalario()
+}
+class STA{
+ String especializacao
+ Double calcularSalario()
+}
+
+Funcionario -- STA
+Funcionario -- Professor
+
+EXEMPLO 2
+interface Funcionario{
+ String nome
+ Double salario
+ Double calcularSalario()
+}
+
+class Professor{
+ String titularidade
+ Double calcularSalario()
+}
+class STA{
+ String especializacao
+ Double calcularSalario()
+}
+
+class Disciplina{
+ String nome
+}
+
+class Ministra{
+ Date horario
+ String URL
+}
+
+Funcionario -- STA
+Funcionario -- Professor
+Professor "1" -- "2..*" Disciplina
+(Professor,Disciplina) .. Ministra
+
+EXEMPLO 3
+interface Funcionario{
+ String nome
+ Double salario
+ Double calcularSalario()
+}
+
+class Professor{
+ String titularidade
+ Double calcularSalario()
+}
+class STA{
+ String especializacao
+ Double calcularSalario()
+}
+
+class Disciplina{
+ String nome
+}
+
+class Ministra{
+ Date horario
+ String URL
+}
+
+class Campus{
+ String cidade
+}
+
+Funcionario -- STA
+Funcionario -- Professor
+Professor "1" -- "2..*" Disciplina
+(Professor,Disciplina) .. Ministra
+
+EXEMPLO 4
+class Tecnico
+class Computador
+class Projeto
+diamond Usa
+
+Tecnico "1"-- Usa
+Projeto "1" - Usa
+Usa - "*"Computador
+Tecnico "1" -- "*" Tecnico : supervisiona >
+
+EXEMPLO 5
+class Animal {
+ List[] membros
+}
+class Membro{
+ Integer digitos
+}
+
+Animal *-- Membro
+
+EXEMPLO 5
+interface Funcionario{
+ String nome
+ Double salario
+ Double calcularSalario()
+}
+
+class Professor{
+ String titularidade
+ Double calcularSalario()
+}
+class STA{
+ String especializacao
+ Double calcularSalario()
+}
+
+Funcionario <|.. STA  
+Funcionario <|.. Professor : " <<implements>>"
+
