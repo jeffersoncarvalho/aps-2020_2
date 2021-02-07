@@ -17,6 +17,7 @@ Aula 09 - Casos de Uso | https://youtu.be/zmDPVbYSJME
 Aula 10 - Exercícios de Casos de Uso | https://youtu.be/lAGzLud6__k
 Aula 11 - PLANTUML-Casos de Uso | https://youtu.be/YH6YFJNFxPA
 Aula 12 - PLANTUML-Diagramas de Classe | https://youtu.be/ksrW_1u_PSA
+Aula 13 - UML: Diagramas (classe,sequencia,pacote e atividades) | https://youtu.be/4dWX9gMYC68
 
 * Playlist turma T04
   * https://www.youtube.com/playlist?list=PL2R4y_yfi1pcMskM_xcGSo0OdY6p_bck9
@@ -35,3 +36,4 @@ Aula 09 - Casos de Uso | https://youtu.be/zmDPVbYSJME
 Aula 10 - Exercícios de Casos de Uso | https://youtu.be/lAGzLud6__k
 Aula 11 - PLANTUML-Casos de Uso | https://youtu.be/YH6YFJNFxPA
 Aula 12 - PLANTUML-Diagramas de Classe | https://youtu.be/ksrW_1u_PSA
+Aula 13 - UML: Diagramas (classe,sequencia,pacote e atividades) | https://youtu.be/4dWX9gMYC68
