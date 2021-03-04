@@ -21,6 +21,7 @@ Aula 13 - UML: Diagramas (classe,sequencia,pacote e atividades) | https://youtu.
 Aula 14 - UML: Diagramas (classe,sequencia,pacote e atividades) - Exercícios | https://youtu.be/bveUf6Q9RP4
 Aula 15 - PLANTUML-Diagramas de Sequencia - Exercícios 1 | https://youtu.be/ZFDy6Lll-_4
 Aula 16 - PLANTUML-Diagramas de Sequencia - Exercícios 2 | https://youtu.be/VfBWdc57UKM
+Aula 17 - PLANTUML-Diagramas de Estado e Atividades | https://youtu.be/nPzbnwS1P7I
 
 * Playlist turma T04
   * https://www.youtube.com/playlist?list=PL2R4y_yfi1pcMskM_xcGSo0OdY6p_bck9
@@ -43,3 +44,4 @@ Aula 13 - UML: Diagramas (classe,sequencia,pacote e atividades) | https://youtu.
 Aula 14 - UML: Diagramas (classe,sequencia,pacote e atividades) - Exercícios | https://youtu.be/bveUf6Q9RP4
 Aula 15 - PLANTUML-Diagramas de Sequencia - Exercícios 1 | https://youtu.be/ZFDy6Lll-_4
 Aula 16 - PLANTUML-Diagramas de Sequencia - Exercícios 2 | https://youtu.be/VfBWdc57UKM
+Aula 17 - PLANTUML-Diagramas de Estado e Atividades | https://youtu.be/WyI4-KFCWNg
